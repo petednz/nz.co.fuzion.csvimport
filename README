@@ -12,3 +12,7 @@ As the Import classes in Core are heavily copied & pasted & it is hard to separa
 #1) 'BaseClass' - generally contains code that would be ideally in the import base class in core
 #2) import specific code
 
+NOTE - if importing Activities and have allowed for using External ID, then the option for External ID is shown but with no indication as to which is which type of Activity Contact. FWIW they are in the order 
+1/ Target
+2/ Source
+3/ Assignee
